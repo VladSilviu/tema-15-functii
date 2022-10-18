@@ -21,3 +21,5 @@ function shapeFunction(shape){
        return formula
    }
    console.log (shapeFunction ('dreptunghi'));
+   console.log (shapeFunction ('patrat'));
+   console.log (shapeFunction ('cerc'));
