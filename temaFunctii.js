@@ -7,7 +7,7 @@ function numberPower(number1, number2){
 
 
 //Tema 2//
-const shapeFunction = (shape) => {
+function shapeFunction(shape){
 
     if (shape === 'patrat') {
        formula = 'Formula pentru patrat este: l**2';
